@@ -1,0 +1,22 @@
+http://www.antflower.sk/
+
+ftp
+37.9.175.4
+asunal.antflower.sk
+Unal8090?
+
+db
+https://db57.websupport.sk/
+antflower
+Unal8090?
+
+mail
+antflower@antflower.sk
+ErdalAntflower2018
+
+config.php
+server  : mysql57.websupport.sk
+port    : 3311
+db name : antflower
+db user : antflower
+db pass : Unal8090?
